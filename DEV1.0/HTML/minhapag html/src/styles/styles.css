@@ -1,0 +1,10 @@
+
+body {
+    background-color: indianred;
+}
+
+
+#inicios {
+    color: aqua;
+    display: flex;
+}
